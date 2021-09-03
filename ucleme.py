@@ -1,7 +1,5 @@
 """
-Gezinme sonrasi eller yukari kalkarkenki 3lu hareket
 
-https://youtu.be/mINL2iJB9DM?t=721
 
 Sol ayak ileri - sag ayak suruyerek solun yanina ve ayni anda sag el goguse kaldirilir
 Sag ayak geri giderken sag el yana acilir -sol ayak surunerek cekilir
