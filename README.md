@@ -1,3 +1,3 @@
 # Nao-Robot-Harmandali
 
-https://user-images.githubusercontent.com/67061626/132243825-8ebda675-fa20-46e2-881b-370df530567b.mp4
+https://user-images.githubusercontent.com/67061626/132246197-ed963776-c9b1-47b5-8ab2-3635da2e5bb4.mp4
